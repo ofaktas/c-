@@ -1,0 +1,10 @@
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\bin\Debug\Port Land.exe.config
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\bin\Debug\Port Land.exe
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\bin\Debug\Port Land.pdb
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port Land.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port_Land.Form1.resources
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port_Land.Properties.Resources.resources
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port Land.csproj.GenerateResource.cache
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port Land.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port Land.exe
+C:\Users\FURKAN\Desktop\seriportapp\Port Land\obj\Debug\Port Land.pdb
